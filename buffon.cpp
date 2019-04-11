@@ -21,7 +21,7 @@ void buffon1(double L, double t, int try_cnt) {
         if (sin(a) >= 0) {
             if (sin(a)*L >= r) h++;
         } else {
-            if (-sin(a)*L >= 1 - r) h++;
+            if (-sin(a)*L >= t - r) h++;
         }
     }
     cout << (2.0*L*try_cnt / (t*h)) << endl; // 円周率の近似値

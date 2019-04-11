@@ -74,3 +74,7 @@ P={4/(tπ)}∫(θ=0→sin⁻¹(t/L)){(L/2)sinθ}dθ+{4/(tπ)}∫(θ=sin⁻¹(t/L
 ={2L/(tπ)}[-cos(sin⁻¹(t/L))+1]+(2/π)cos⁻¹(t/L)
 ={2L/(tπ)}[-√{1-(t/L)²)}+1]+(2/π)cos⁻¹(t/L)
 ={2L/(tπ)}[1-√{1-(t/L)²)}]+(2/π)cos⁻¹(t/L)
+
+引用文献
+ビュフォンの針 Wikipedia
+https://ja.wikipedia.org/wiki/ビュフォンの針
